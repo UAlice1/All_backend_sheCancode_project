@@ -1,4 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="VcsDirectoryMappings" defaultProject="true" />
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AnimalOOP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bitcoinoop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSVStreamProcessor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Car" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Genericmergearray2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Generics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Genericsmergearray" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GradeManagerSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Inhertance1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Notificationjava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pairjava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Qouiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StudentManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TaskManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/URLFetcherThread" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/anotheroop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arrayhashmap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arrayhashmap/JavaLists-ArrayLists" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arraylist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arraysfruit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hashmap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lamdaandGenericassignment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/maparray" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/method" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/numberguessing/numberguessing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/postgresql-practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/threads" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/untitled1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/untitled2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/untitled2/GradeManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/untitled3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/untitled5" vcs="Git" />
+  </component>
 </project>
